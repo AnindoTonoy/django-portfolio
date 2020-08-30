@@ -1,5 +1,5 @@
 # django-portfolio
-Portfolio Project Build with Django 2.1.4
+Portfolio Project Build with Django 3.1
 ## Prerequisites
 ```bash
 python== 3.8 or up and django==3.1
