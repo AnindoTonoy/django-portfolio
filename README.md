@@ -23,3 +23,7 @@ Then go to http://127.0.0.1:8000 in your browser
 ## Project snapshot
 
 ### Home page
+![screencapture-127-0-0-1-8000-2020-08-30-13_26_20](https://user-images.githubusercontent.com/26842902/91654310-7033f200-eac9-11ea-85f0-004d9e979358.png)
+
+### Contact page
+![screencapture-127-0-0-1-8000-contact-2020-08-30-13_26_41](https://user-images.githubusercontent.com/26842902/91654351-b8531480-eac9-11ea-91d8-c9642bfe5d0d.png)
